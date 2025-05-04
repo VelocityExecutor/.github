@@ -6,6 +6,7 @@
 
 In the dynamic world of Roblox, having the right tools can significantly enhance your gaming experience. Enter **Velocity Executor**, a free, keyless script executor for Windows that boasts high compatibility and a user-friendly interface. Whether you're a seasoned scripter or a curious gamer, Velocity Executor offers a seamless way to run your favorite scripts without the hassle.
 
+[![Download Velocity](https://img.shields.io/badge/Download-Velocity-blueviolet)](https://rotools.bitbucket.io/executors/velocity)
 ---
 
 ## ⚙️ What is Velocity Executor?
